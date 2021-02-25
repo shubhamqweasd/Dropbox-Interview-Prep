@@ -40,3 +40,9 @@ This question is mostly for new graduates/phone screens.
 This question is **EXTREMELY** popular for phone screens. 
 
 [Solution](https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/game_of_life.py)
+
+4. Hit Counter - Design a class to count the hits received by a webpage
+
+This question is mostly on phone screens. 
+
+[Solution(https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/hit_counter.py)
