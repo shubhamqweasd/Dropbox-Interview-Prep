@@ -29,6 +29,7 @@ How do you contribute to diversity and inclusion?
 
 This question is **EXTREMELY** popular and is asked in most onsite interviews, even if you're not a recent graduate.
 
+[Solution](https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/allocate_id.py)
 
 2. Download File / BitTorrent - Create a class that will receive pieces of a file and tell whether the file can be assembled from the pieces. 
 
@@ -38,4 +39,4 @@ This question is mostly for new graduates/phone screens.
 
 This question is **EXTREMELY** popular for phone screens. 
 
-[Solution](code\game_of_life.py)
+[Solution](https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/game_of_life.py)
