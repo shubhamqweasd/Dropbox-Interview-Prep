@@ -27,9 +27,15 @@ How do you contribute to diversity and inclusion?
 
 1. Id Allocator - Create a class that can allocate and release ids. 
 
-This question is **extremely** popular and is asked in most onsite interviews, even if you're not a recent graduate.
+This question is **EXTREMELY** popular and is asked in most onsite interviews, even if you're not a recent graduate.
 
 
 2. Download File / BitTorrent - Create a class that will receive pieces of a file and tell whether the file can be assembled from the pieces. 
 
-This question is mostly for new graduates. 
+This question is mostly for new graduates/phone screens. 
+
+3. Game of Life - Conway's Game of Life - [Problem on LeetCode](https://leetcode.com/problems/game-of-life/)
+
+This question is **EXTREMELY** popular for phone screens. 
+
+[Solution](.\code\game_of_life.py)
