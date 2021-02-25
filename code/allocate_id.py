@@ -123,3 +123,4 @@ class BinaryHeapAllocator:
                     both_children_are_true = True
             self.bool_array[parent_index] = both_children_are_true
             index = parent_index
+        self.bool_array[0] = self.bool_array[1] and self.bool_array[2]
