@@ -38,4 +38,4 @@ This question is mostly for new graduates/phone screens.
 
 This question is **EXTREMELY** popular for phone screens. 
 
-[Solution](.\code\game_of_life.py)
+[Solution](code\game_of_life.py)
