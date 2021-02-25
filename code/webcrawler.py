@@ -12,11 +12,11 @@ class Webcrawler:
     def __init__(self, url):
         self.visited_urls = set()
         self.url_queue = collections.deque()
-        self.url_queue.appendleft_(url)
+        self.url_queue.appendleft(url)
     
     def process_url(self, url):
         try:
-            html = get_html_content(url) #Interviewer asks which line is the bottleneck. It's this one!
+            html = get_html_content(url) #Interviewer asks which line is the bottleneck. IT'S THIS ONE!
         except ConnectionError:
             return #talk about retries, what to do in this case
         links = get_links_on_page(html)
@@ -87,7 +87,6 @@ class MultiThreadedWebcrawler:
                             self.active_futures.append(future)
                 #Outside of the lock, you can remove completed futures from the active_futures
                 self.active_futures = [future for future in self.active_futures if not future.done()]
-                    future = self.active_futures_queue.pop()
-                
                 time.sleep(1) #Let someone else take the lock. 
+                
         return list(self.visited_urls)
