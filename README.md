@@ -46,3 +46,9 @@ This question is **EXTREMELY** popular for phone screens.
 This question is mostly on phone screens. 
 
 [Solution(https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/hit_counter.py)
+
+5. Web Crawler - Design a web crawler, first single-threaded, then multithreaded.
+
+This question is **EXTREMELY** popular for onsite interviews.
+
+[Solution](https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/code/webcrawler.py)
