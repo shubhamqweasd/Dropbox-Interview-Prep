@@ -70,7 +70,6 @@ class MultiThreadedWebcrawler:
                     num_active_jobs = len(self.active_futures)
                     num_urls_to_crawl = len(self.url_queue)
                     if num_urls_to_crawl == 0 and num_active_jobs == 0:
-                        
                         #Termination - you have no urls left to crawl, and all of your 
                         #jobs in the pool are complete.
                         break
