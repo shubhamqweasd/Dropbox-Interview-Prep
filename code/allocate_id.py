@@ -1,3 +1,11 @@
+"""
+Dropbox
+
+IdAllocator
+
+Write a class for an id allocator that can allocate and release ids
+"""
+
 class Allocator:
 
     def __init__(self, max_val):
