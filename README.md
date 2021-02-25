@@ -25,7 +25,7 @@ How do you contribute to diversity and inclusion?
 
 **Coding Question List**: 
 
-1. **Id Allocator** - Create a class that can allocate and release ids. 
+1. **Id Allocator** - Create a class that can allocate and release ids. The image in the packet is wrong. Please see [this image](https://github.com/insideofdrop/Dropbox-Interview-Prep/blob/main/Binary%20Heap.png).
 
 This question is **EXTREMELY** popular and is asked in most onsite interviews, even if you're not a recent graduate.
 
